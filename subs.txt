@@ -8,7 +8,7 @@ pop
 ns1
 webdisk
 ns2
-cpanel
+cpanel 
 whm
 autodiscover
 autoconfig
