@@ -9728,3 +9728,6 @@ config.js
 eventGateway.config
 aura
 sfsites/aura
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
