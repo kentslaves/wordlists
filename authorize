@@ -1,0 +1,9 @@
+ReplaceString	Q29va2llOiBJbnNlcnQ9aW5qZWN0ZWQ7IGNvb2tpZT1vcjsKSGVhZGVyOiBoZXJl
+IFFilter	VVJMIE5vdCBDb250YWlucyAocmVnZXgpOiAoXC5qc3xcLmNzc3xcLnBuZ3xcLmpwZ3xcLnN2Z3xcLmpwZWd8XC5naWZ8XC53b2ZmfFwubWFwfFwuYm1wfFwuaWNvKSg/IVthLXpdKylbP10qW1xTXSok
+IFFilter	SWdub3JlIHNwaWRlciByZXF1ZXN0czog
+IFFilter	U2NvcGUgaXRlbXMgb25seTog
+IFFilter	SWdub3JlIE9QVElPTlMgcmVxdWVzdHM6IA==
+AndOrType	And
+AndOrTypeUnauth	And
+CheckBoxes	{"doUnauthorizedRequest": true, "showAuthPotentiallyEnforcedModified": true, "showAuthBypassUnauthenticated": true, "showAuthEnforcedModified": true, "showAuthEnforcedUnauthenticated": true, "prevent304": false, "interceptRequestsfromRepeater": false, "ignore304": false, "showAuthBypassModified": true, "showAuthPotentiallyEnforcedUnauthenticated": true, "showDisabledUnauthenticated": true, "autoScroll": false, "replaceQueryParam": false}
+RemoveDuplicates	true
